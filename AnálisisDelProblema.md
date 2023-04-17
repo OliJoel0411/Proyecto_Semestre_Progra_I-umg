@@ -101,4 +101,4 @@ CONSIDERACIONES NECESARIAS SOLICITADAS POR EMSA S.A
 
 #### CARACTERÍSTICAS ADICIONALES:
     - Existen evento que tienen múltiples fechas y también eventos en los cuales se venden múltiples boletos por parte del organizador del evento, debido a esto se debe contar con la opción de cargar múltiples eventos y vender grupos grandes de boletos cargando los datos por medio de archivos de texto.
-    - Estos archivos de texto contienen todos los datos necesarios para realizar la carga de eventos o la carga de archivos, en donde cada línea del archivo representa un evento o un boleto, según sea la opción que se este utilizando.
+    - Estos archivos de texto contienen todos los datos necesarios para realizar la carga de eventos o la carga de archivos, en donde cada línea del archivo representa un evento o un boleto, según sea la opción que se este utilizando. .
