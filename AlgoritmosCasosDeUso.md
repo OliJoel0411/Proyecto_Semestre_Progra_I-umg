@@ -1,4 +1,7 @@
 # Algoritmos para cada Caso de Uso
+Link para diagramas de caso de Uso:
+https://app.diagrams.net/#G1FaBDbWJNt8939l50z6-e6vKQFMfNgr5g
+
 
 - Casos de uso:
     - *Registrar Eventos.*
