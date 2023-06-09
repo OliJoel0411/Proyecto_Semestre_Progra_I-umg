@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="controlador.Vista_HomeController">
+   <children>
+      <Button layoutX="294.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="106.0" text="Administrador" />
+      <Button layoutX="447.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Usuario" />
+      <ImageView fitHeight="327.0" fitWidth="242.0" layoutX="26.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true" />
+      <Button layoutX="491.0" layoutY="314.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Crear Cuenta" />
+      <Label layoutX="372.0" layoutY="38.0" prefHeight="99.0" prefWidth="130.0" text="BIENVENIDO! " textAlignment="CENTER" />
+   </children>
+</AnchorPane>
