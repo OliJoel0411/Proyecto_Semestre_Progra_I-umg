@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.text.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
 <?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controlador.Vista_LoginController">
-    
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="controlador.Vista_LoginController">
+   <children>
+      <Label layoutX="149.0" layoutY="83.0" prefHeight="62.0" prefWidth="89.0" text="correo ">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <Button layoutX="275.0" layoutY="243.0" mnemonicParsing="false" text="login">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+      <Label layoutX="149.0" layoutY="138.0" prefHeight="62.0" prefWidth="157.0" text="contraseña">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <TextField layoutX="286.0" layoutY="102.0" />
+      <TextField layoutX="286.0" layoutY="157.0" />
+   </children>
 </AnchorPane>

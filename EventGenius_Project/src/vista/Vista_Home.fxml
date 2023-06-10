@@ -7,13 +7,12 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="controlador.Vista_HomeController">
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controlador.Vista_HomeController">
    <children>
-      <Button layoutX="294.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="106.0" text="Administrador" />
-      <Button layoutX="447.0" layoutY="188.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Usuario" />
+      <Button layoutX="63.0" layoutY="176.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="106.0" text="Administrador" />
+      <Button layoutX="268.0" layoutY="176.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Usuario" />
       <ImageView fitHeight="327.0" fitWidth="242.0" layoutX="26.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true" />
-      <Button layoutX="491.0" layoutY="314.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Crear Cuenta" />
-      <Label layoutX="372.0" layoutY="38.0" prefHeight="99.0" prefWidth="130.0" text="BIENVENIDO! " textAlignment="CENTER" />
+      <Button layoutX="181.0" layoutY="292.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="87.0" text="Crear Cuenta" />
+      <Label layoutX="203.0" layoutY="27.0" prefHeight="99.0" prefWidth="130.0" text="BIENVENIDO! " textAlignment="CENTER" />
    </children>
 </AnchorPane>
